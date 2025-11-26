@@ -8,7 +8,7 @@ This repository hosts the official **DevOps Manifesto**, its principles, and the
 
 The full manifesto is available here:
 
-👉 **https://alterloop.dev/manifesto/**
+👉 **[alterloop.dev/manifesto/](https://alterloop.dev/manifesto/)**
 
 We invite you to read it, share it, and contribute to the discussion.
 
@@ -16,7 +16,7 @@ We invite you to read it, share it, and contribute to the discussion.
 
 If you support this vision of DevOps, you can sign the manifesto by leaving a comment on this GitHub issue:
 
-👉 **https://github.com/alterloop/manifesto/issues/1**
+👉 **[github.com/alterloop/manifesto/issues/1](https://github.com/alterloop/manifesto/issues/1)**
 
 Your comment = your signature.
 
