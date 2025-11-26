@@ -16,7 +16,7 @@ We invite you to read it, share it, and contribute to the discussion.
 
 If you support this vision of DevOps, you can sign the manifesto by leaving a comment on this GitHub issue:
 
-👉 **https://github.com/your-org/your-repo/issues/1**
+👉 **https://github.com/alterloop/manifesto/issues/1**
 
 Your comment = your signature.
 
