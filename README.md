@@ -46,6 +46,16 @@ This manifesto was created to:
 - fight the misconception that DevOps = cloud sysadmin  
 - encourage organizations to value DevOps as a discipline, not a silo  
 
+## 🌟 Current Signatories
+
+Here is the list of people who have officially signed the DevOps Manifesto.
+This list is manually updated — add your nickname when you sign the GitHub issue.
+
+* [francescobianco](https://github.com/francescobianco)
+* [masenocturnal](https://github.com/masenocturnal)
+
+*(Add your nickname here after signing the manifesto via the GitHub issue)*
+
 ## 🤝 Contributing
 
 Feedback, proposals, discussions, and improvements are welcome.  
