@@ -4,8 +4,6 @@ A public and open declaration redefining DevOps as a **software engineering disc
 
 This repository hosts the official **DevOps Manifesto**, its principles, and the public issue where supporters can sign it with a comment.
 
----
-
 ## 🌐 Read the Manifesto
 
 The full manifesto is available here:
@@ -13,8 +11,6 @@ The full manifesto is available here:
 👉 **https://alterloop.dev/manifesto/**
 
 We invite you to read it, share it, and contribute to the discussion.
-
----
 
 ## ✍️ Sign the Manifesto
 
@@ -25,8 +21,6 @@ If you support this vision of DevOps, you can sign the manifesto by leaving a co
 Your comment = your signature.
 
 You may also include your thoughts, ideas, or your own interpretation of DevOps as engineering.
-
----
 
 ## 🎯 Why This Manifesto Exists
 
@@ -52,8 +46,6 @@ This manifesto was created to:
 - fight the misconception that DevOps = cloud sysadmin  
 - encourage organizations to value DevOps as a discipline, not a silo  
 
----
-
 ## 🤝 Contributing
 
 Feedback, proposals, discussions, and improvements are welcome.  
@@ -64,8 +56,6 @@ You can:
 - participate in discussions  
 - refine principles  
 - propose new sections  
-
----
 
 ## 📜 License
 
