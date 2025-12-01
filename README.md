@@ -51,8 +51,9 @@ This manifesto was created to:
 Here is the list of people who have officially signed the DevOps Manifesto.
 This list is manually updated — add your nickname when you sign the GitHub issue.
 
-* [francescobianco](https://github.com/francescobianco) - Original bootstrapper
-* [masenocturnal](https://github.com/masenocturnal) - First signatory
+* [francescobianco](https://github.com/francescobianco) - Original Bootstrapper
+* [masenocturnal](https://github.com/masenocturnal) - First Signatory
+* [suxstellino](https://github.com/suxstellino) - First Distinguished Italian Signatory
 
 *(Add your nickname here after signing the manifesto via the GitHub issue)*
 
