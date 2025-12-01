@@ -53,7 +53,8 @@ This list is manually updated — add your nickname when you sign the GitHub iss
 
 * [francescobianco](https://github.com/francescobianco) - Original Bootstrapper
 * [masenocturnal](https://github.com/masenocturnal) - First Signatory
-* [suxstellino](https://github.com/suxstellino) - First Distinguished Italian Signatory
+* [suxstellino](https://github.com/suxstellino) - Early Distinguished Italian Signatory
+* [fabiocozzolino](https://github.com/fabiocozzolino) - Early Distinguished Italian Signatory
 
 *(Add your nickname here after signing the manifesto via the GitHub issue)*
 
